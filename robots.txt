@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://kqasea.github.io/QuA/sitemap.QuA.gz
